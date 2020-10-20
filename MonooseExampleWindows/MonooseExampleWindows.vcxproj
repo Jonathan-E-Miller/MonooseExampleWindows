@@ -133,6 +133,7 @@
   <ItemGroup>
     <None Include="login.html" />
     <None Include="index.shtml" />
+    <None Include="showdata.shtml" />
     <None Include="test.html" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

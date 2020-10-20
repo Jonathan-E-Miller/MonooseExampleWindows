@@ -59,6 +59,7 @@
         <p>Your lucky number is <!--#call lucky_number -->.</p>
         <p><a href="/logout">Log out</a>
         <p><a href="/test.html">Test page</a>
+        <p><a href="/showdata.shtml">SSI Demo</a>
     </div>
 </body>
 </html>

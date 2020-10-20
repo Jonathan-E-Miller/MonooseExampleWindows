@@ -31,5 +31,6 @@
     <None Include="test.html" />
     <None Include="index.shtml" />
     <None Include="login.html" />
+    <None Include="showdata.shtml" />
   </ItemGroup>
 </Project>

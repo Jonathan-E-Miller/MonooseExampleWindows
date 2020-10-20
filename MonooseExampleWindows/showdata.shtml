@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft Visual Studio">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+    <h1>This demonstrates using SSI to inject some data</h1>
+    <h2><!--#call foo--></h2>
+</BODY>
+</HTML>

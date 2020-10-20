@@ -274,6 +274,9 @@ static void ev_handler(struct mg_connection* nc, int ev, void* p) {
 		else if (strcmp(var, "lucky_number") == 0) {
 			mg_printf_html_escape(nc, "%d", s->lucky_number);
 		}
+		else if (strcmp(var, "foo") == 0) {
+			mg_printf_html_escape(nc, "%s", "Some Random Data");
+		}
 		break;
 	}
 	case MG_EV_TIMER: {
